@@ -17,7 +17,7 @@ npm start
 ```
 
 ### Structure
-![alt text](https://github.com/BananaBb/cra-template-bb-react-temp/blob/main/typescript.structure.png?raw=true)
+![alt text](https://github.com/BananaBb/cra-template-bb-react-temp/blob/main/typescript.structure?raw=true)
 
 ### Assets/
 The assets folder contains images and global scss folder for styling. In this project architecture, I am using centralized styling with SCSS files. I am more comfortable with that.
